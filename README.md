@@ -1,7 +1,7 @@
 # Laser-Based Bed Exit Detection System | CS 578 Project
 
 ## Overview
-This project was developed as part of my Wireless Networks course (CS 578) at San Diego State University. It was inspired by Raspberry Pi’s Laser Tripwire project and adapted to address a real-world healthcare need: detecting when a patient exits a bed and sending an automated alert to a caregiver.
+This project was developed as part of my Wireless Networks course (CS 578) at San Diego State University. It was inspired by Raspberry Pi’s [Laser Tripwire project](https://projects.raspberrypi.org/en/projects/laser-tripwire) and adapted to address a real-world healthcare need: detecting when a patient exits a bed and sending an automated alert to a caregiver.
 
 The system uses a Raspberry Pi, laser module, and photoresistor to detect beam interruptions, with immediate notifications sent through IFTTT. While rooted in embedded systems, this project reflects my broader interest in building end-to-end technical solutions that prioritize safety, usability, and real-world application.
 
